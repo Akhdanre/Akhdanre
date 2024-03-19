@@ -7,6 +7,8 @@
 
 Saya adalah seorang insinyur backend yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
 
+![snake gif](https://github.com/Akdanre/Akhdanre/blob/output/github-contribution-grid-snake.gif)
+
 ## Statistik
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhdanre&rank_icon=github&bg_color=000000" />
@@ -18,31 +20,10 @@ Saya adalah seorang insinyur backend yang juga memiliki pengalaman dalam pengemb
 
 ## 🚀 Keterampilan
 
-### Operating System
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,windows,ubuntu" />
-  </a>
-</p>
 
-### Backend Engineer
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,go,php,java" />
-  </a>
-</p>
-
-### Mobile Engineer
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,java" />
-  </a>
-</p>
-
-### Framework
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,fastapi,express,laravel" />
+    <img src="https://skillicons.dev/icons?i=debian,windows,ubuntu,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb" />
   </a>
 </p>
 
@@ -52,7 +33,7 @@ Saya adalah seorang insinyur backend yang juga memiliki pengalaman dalam pengemb
 
 ## Waktu yang Dihabiskan pada Koding
 
-[![Waktu yang Dihabiskan pada Koding oleh Akhdan](https://github-readme-stats.vercel.app/api/wakatime?username=akhdanre&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Waktu yang Dihabiskan pada Koding oleh Akhdan](https://git-readme-stats.vercel.app/api/wakatime?username=akhdanre&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -4,7 +4,7 @@
 
 ## Tentang Saya
 
-Saya adalah seorang insinyur backend yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
+Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
 
 
 ## Statistik
@@ -29,9 +29,7 @@ Saya adalah seorang insinyur backend yang juga memiliki pengalaman dalam pengemb
 
 
 
-## Waktu yang Dihabiskan pada Koding
-
-
+## Waktu yang saya habasikan pada Koding
 
 <center>
     <a href="https://wakatime.com/@AkhdanRe">

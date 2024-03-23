@@ -1,6 +1,6 @@
 <div align=center> <h1>Akhdan Robbani</h1> </div>
 
-
+<br>
 
 ## About Me
 
@@ -15,7 +15,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhdanre&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
 </a>
-</div>
+</div><br>
 
 ## Skill
 
@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,git,github,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,postman,figma" />
   </a>
 </p>
-
+<br>
  
 ## time i spent in coding 
 

@@ -1,11 +1,12 @@
-# Akhdan Robbani
+<center> <h1>Akhdan Robbani</h1> </center>
 
 
 
 ## Tentang Saya
+<center> <h3>
 
 Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
-
+</h3> </center>
 
 ## Statistik
 <div align=center>
@@ -17,12 +18,12 @@ Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengemb
 </a>
 </div>
 
-## 🚀 Keterampilan
+## Keterampilan
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,windows,ubuntu,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,git,github,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,postman,figma" />
   </a>
 </p>
 

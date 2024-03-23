@@ -2,9 +2,9 @@
 
 
 
-## Tentang Saya
+## About Me
 
-Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
+ it's me Akhdan Robbani, i'm interested in Backend Engineering and Mobile Development 
 
 
 ## Statistik
@@ -17,7 +17,7 @@ Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengemb
 </a>
 </div>
 
-## Keterampilan
+## Skill
 
 
 <p align="center">
@@ -26,11 +26,8 @@ Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengemb
   </a>
 </p>
 
-
-
-
-
-## Waktu yang saya habiskan pada Koding
+ 
+## time i spent in coding 
 
 <div align=center>
     <a href="https://wakatime.com/@AkhdanRe">

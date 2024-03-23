@@ -1,12 +1,11 @@
-<center> <h1>Akhdan Robbani</h1> </center>
+<div align=center> <h1>Akhdan Robbani</h1> </div>
 
 
 
 ## Tentang Saya
-<center> <h3>
 
 Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengembangan aplikasi mobile.
-</h3> </center>
+
 
 ## Statistik
 <div align=center>
@@ -31,7 +30,7 @@ Saya adalah seorang backend engineer yang juga memiliki pengalaman dalam pengemb
 
 
 
-## Waktu yang saya habasikan pada Koding
+## Waktu yang saya habiskan pada Koding
 
 <div align=center>
     <a href="https://wakatime.com/@AkhdanRe">

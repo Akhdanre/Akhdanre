@@ -27,7 +27,7 @@
 </p>
 <br>
  
-## time i spent in coding 
+## Time I Spent in Coding 
 
 <div align=center>
     <a href="https://wakatime.com/@AkhdanRe">

@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhdanre&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhdanre&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
 </a>
 </div><br>

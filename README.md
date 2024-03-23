@@ -12,6 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akhdanre&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
 </a>
+<span style="font-size: 30px; color: #808080;">|</span>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhdanre&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
 </a>
@@ -35,6 +36,13 @@
     </a>
 </div>
 
+
+## Other Activities I Do
+- [Instagram](https://www.instagram.com/Akhdanre)
+- [Facebook](https://www.facebook.com/akhdan-robbani)
+- [LinkedIn](https://www.linkedin.com/in/akhdan-robbani)
+- [GitHub](https://github.com/Akhdanre)
+- [WakaTime](https://wakatime.com/@AkhdanRe)
 
 
 

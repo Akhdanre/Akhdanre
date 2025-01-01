@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,git,github,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,firebase,postman,figma" />
+    <img src="https://skillicons.dev/icons?perline=10&i=fedora,debian,ubuntu,windows,git,github,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,firebase,postman,figma" />
   </a>
 </p>
 <br>

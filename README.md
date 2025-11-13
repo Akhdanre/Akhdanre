@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Dynamic Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FFFF&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Akhdan+Robbani;Backend+Engineer+%7C+Mobile+Developer;Building+Scalable+%26+Elegant+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=5EEAD4FF&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Akhdan+Robbani;Backend+Engineer+%7C+Mobile+Developer;Building+Scalable+%26+Elegant+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=32&desc=Crafting%20Code%20with%20Passion&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,12&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=32&desc=Crafting%20Code%20with%20Passion&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <br>
 
@@ -40,13 +40,14 @@ const akhdan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhdanre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=A177FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akhdanre&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FF&fire=A177FF&currStreakLabel=A177FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhdanre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhdanre&theme=github-compact&hide_border=true&bg_color=0D1117&color=5EEAD4&line=2DD4BF&point=99F6E4&area=true&area_color=2DD4BF" alt="Activity Graph" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhdanre&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=c9d1d9&card_width=400" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhdanre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=c9d1d9&area=true&area_color=A177FF" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhdanre&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=c9d1d9&card_width=400" alt="Top Languages" />
+
 </div>
 
 <br>
@@ -102,11 +103,11 @@ const akhdan = {
 ## ⏱️ Coding Activity
 
 <div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akhdanre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=c9d1d9&langs_count=10&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akhdanre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=c9d1d9&langs_count=10&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhdanre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=c9d1d9" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhdanre&theme=github-compact&hide_border=true&bg_color=0D1117&color=5EEAD4&line=2DD4BF&point=99F6E4" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -137,7 +138,7 @@ const akhdan = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,12&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -146,6 +147,6 @@ const akhdan = {
   
   ---
   
-  <sub>⭐ From [Akhdanre](https://github.com/Akhdanre) with 💜</sub>
+  <sub>⭐ From [Akhdanre](https://github.com/Akhdanre) with �</sub>
   
 </div>
